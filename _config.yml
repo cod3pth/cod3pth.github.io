@@ -3,7 +3,7 @@
 
 title: Bay Jekyll Theme
 description: Bay is a minimal Jekyll Theme.
-baseurl: "https://cod3pth.github.io/"
+baseurl: "/"
 url: "https://cod3pth.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
@@ -20,7 +20,7 @@ footer:
   contact:
     - type: email
       name: Email
-      value: yourmail@domain.com
+      value: cod3pth@gamil.com
     - type: wechat
       value: YourWeChatUsername
       link: "#"
