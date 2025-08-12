@@ -33,6 +33,6 @@ title: About
   *CVE-2022-0506*
   *CVE-2022-23896*
 
-  - **2021**  
+- **2021**  
   *HackingZone #17353*
   *HackingZone #36193*
