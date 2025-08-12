@@ -3,27 +3,40 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+# <span style="color:white">배인월(COD3PTH)</span>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+---
 
-There are currently two themes built on Poole:
+## <span style="color:white">경력</span>
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+**보안담당자**<br>
+*2022.04. ~ 재직중*
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+**보안컨설팅**<br>
+*2021.01. ~ 2022.04.(1년 3개월)*
 
-## Setup
+**안드로이드 악성코드 분석**<br>
+*2019.09. ~ 2020.12.(1년 3개월)*
 
-Some fun facts about the setup of this project include:
+---
 
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
+## <span style="color:white">취약점 제보</span>
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+**2023**<br>
+*PatchDay #189*<br>
 
-Thanks for reading!
+**2022**<br>
+*금융보안원 #2022-0001*<br>
+*CVE-2022-0285*<br>
+*CVE-2022-0506*<br>
+*CVE-2022-23896*<br>
+*PatchDay #157*<br>
+*Findthegap #65314*<br>
+*Findthegap #65309*<br>
+*Findthegap #64869*<br>
+
+**2021**<br>
+*HackingZone #17353*<br>
+*HackingZone #36193*<br>
+
+---
