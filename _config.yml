@@ -41,8 +41,9 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
-
   - title: About
     url: /about
+    
+  - title: Archive
+    url: /archive
+    
