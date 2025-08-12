@@ -9,7 +9,7 @@ title: About
 
 #### 경력
 
-- **보안담당자**, [NSHC](https://www.nshc.net) ([RedAlert](https://redalert.nshc.net))  
+- **보안담당자**
   *2022.04. ~ 재직중*
 
 - **보안컨설팅**
