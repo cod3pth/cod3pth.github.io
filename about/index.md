@@ -3,11 +3,11 @@ layout: default
 title: About
 ---
 
-## 배인월(COD3PTH)
+# 배인월(COD3PTH)
 
 ---
 
-### 경력
+## 경력
 
 **보안담당자**<br>
 2022.04. ~ 재직중
@@ -20,7 +20,7 @@ title: About
 
 ---
 
-### 취약점 제보
+## 취약점 제보
 
 **2023**<br>
 *PatchDay #189*<br>
