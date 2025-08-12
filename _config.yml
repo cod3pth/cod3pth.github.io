@@ -1,6 +1,6 @@
 name: COD3PTH
 url: http://example.org
-description: Security
+description: Web Security
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
