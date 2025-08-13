@@ -3,11 +3,11 @@ layout: page
 title: About
 ---
 
-### <span style="color:white">배인월(COD3PTH)</span>
+### 배인월(COD3PTH)
 
 ---
 
-#### <span style="color:white">경력</span>
+#### 경력
 
 **보안담당자**<br>
 *2022.04. ~ 재직중*
@@ -20,7 +20,7 @@ title: About
 
 ---
 
-#### <span style="color:white">취약점 제보</span>
+#### 취약점 제보
 
 **2023**<br>
 *PatchDay #189*<br>
