@@ -1,0 +1,9 @@
+---
+layout: default
+title: Home
+---
+
+<section class="about-home">
+  {% capture aboutmd %}{% include about-home.md %}{% endcapture %}
+  {{ aboutmd | markdownify }}
+</section>
