@@ -1,7 +1,14 @@
 ---
 layout: default
 title: Home
+paginate: 5
 ---
+
+<section class="about-home">
+  {% include about.md %}
+</section>
+
+<hr>
 
 <div class="posts">
   {% for post in paginator.posts %}
