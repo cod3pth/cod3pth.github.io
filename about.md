@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /
 ---
 
 ### 배인월(COD3PTH)
